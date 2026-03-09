@@ -24,11 +24,12 @@ Para ejecutar este proyecto, el entorno requiere las siguientes librerías de Py
 * `seaborn` (Visualización estadística avanzada)
 
 ## ⚙️ Instrucciones de Uso / Cómo ejecutar el proyecto
+
 Si deseas clonar este repositorio y ejecutar el análisis localmente, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone [https://github.com/JociasOrt/telecom-customer-churn-analysis.git](https://github.com/JociasOrt/telecom-customer-churn-analysis.git)
 2. Asegúrate de tener instalado Python 3.x y un entorno como Jupyter Notebook o Google Colab.
 3. Instala las dependencias necesarias ejecutando:
 `pip install pandas matplotlib seaborn`
